@@ -43,7 +43,7 @@ atau download dari https://drive.google.com/drive/u/0/folders/1YW0HTTfcOXgQpteXU
 * [**Reddy Kusuma Jaya**](https://www.FaceBook.com/Reddy.KusumaJaya) - *Asset Creator*
 * [**Rexy Samuel**](https://www.FaceBook.com/Reximug) - *Music & Sound*
 
-<br />a
+<br />
 
 ## Lisensi
 
