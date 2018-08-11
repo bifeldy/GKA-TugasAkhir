@@ -5,6 +5,8 @@
 
 <br />
 
+![](Screenshot.png)
+
 ## Tentang Permainan
 
 Dalam permainan ini, pemain diharuskan untuk mencari sebuah Gawai yang berada di dalam ruangan.
