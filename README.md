@@ -1,16 +1,18 @@
 # ![logo](Logo.png) *The Thruth | Final Build*
 
 > Sebuah permainan yang dibuat sebagai tugas akhir mata kuliah 'Grafika Komputer & Animasi' <br />
-> Tugas ini sudah dapat kami anggap 'selesai' dikarenakan adanya alasan yang mendesak (>_<") <br />
-
-> Jangan lupa *join* Discord <br />
-[![Chat on Discord](https://discordapp.com/api/guilds/342220398022098944/widget.png "Chat on Discord")](https://discord.gg/xGWdExk)
+> Tugas ini sudah dapat kami anggap 'selesai' dikarenakan adanya alasan yang mendesak (>_<")
 
 <br />
 
 ![](Screenshot.png)
 
 ----
+
+> Jangan lupa *join* Discord <br />
+[![Chat on Discord](https://discordapp.com/api/guilds/342220398022098944/widget.png "Chat on Discord")](https://discord.gg/xGWdExk)
+
+<br />
 
 ## Tentang Permainan
 
