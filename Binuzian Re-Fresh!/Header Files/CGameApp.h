@@ -1,10 +1,9 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
-*	File Name *	CGameApp.h		      		   *
-*	   Author *	Basilius Bias Astho Christyono *
-* Website URL * bifeldy.blogspot.com		   *
-*       Email *	bifeldy@gmail.com              *
-* Description *	Application Header File		   *
-*  Created On *	01/06/2018					   *
+*   File Name * CGameApp.h                     *
+*      Author * Basilius Bias Astho Christyono *
+*       Email * bias.astho@gmail.com           *
+* Description * Application Header File        *
+*  Created On * 01/06/2018                     *
 * * * * * * * * * * * * * * * * * * * * * * * */
 #pragma once
 #include "../Header Files/stdafx.h"
@@ -31,7 +30,7 @@ public:
 	virtual void OnUpdateFrame(LPDIRECT3DDEVICE9 pDevice, float elapsedTime);
 	virtual void OnRenderFrame(LPDIRECT3DDEVICE9 pDevice, float elapsedTime);
 	virtual void ProcessInput(long xDelta, long yDelta, long zDelta,
-		BOOL* pMouseButtons, BOOL* pPressedKeys, float elapsedTime);
+	BOOL* pMouseButtons, BOOL* pPressedKeys, float elapsedTime);
 
 	/* Your Function In Here And Publicly Can Be Accessed By Everyone */
 
