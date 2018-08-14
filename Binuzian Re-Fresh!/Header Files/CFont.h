@@ -1,10 +1,9 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
-*	File Name *	CFont.h					 	   *
-*	   Author *	Basilius Bias Astho Christyono *
-* Website URL * bifeldy.blogspot.com		   *
-*       Email *	bifeldy@gmail.com              *
-* Description *	2D & 3D Font			       *
-*  Created On *	11/06/2018					   *
+*   File Name *	CFont.h                        *
+*      Author *	Basilius Bias Astho Christyono *
+*       Email *	bias.astho@gmail.com           *
+* Description *	2D & 3D Font                   *
+*  Created On *	11/06/2018                     *
 * * * * * * * * * * * * * * * * * * * * * * * */
 #pragma once
 #include "stdafx.h"
