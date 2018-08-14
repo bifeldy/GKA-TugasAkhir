@@ -1,10 +1,9 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
-*	File Name *	CFramework.h        		   *
-*	   Author *	Basilius Bias Astho Christyono *
-* Website URL * bifeldy.blogspot.com		   *
-*       Email *	bifeldy@gmail.com              *
-* Description *	Main Controller Point		   *
-*  Created On *	01/06/2018					   *
+*   File Name * CFramework.h                   *
+*      Author *	Basilius Bias Astho Christyono *
+*       Email *	bias.astho@gmail.com           *
+* Description *	Main Controller Point          *
+*  Created On *	01/06/2018                     *
 * * * * * * * * * * * * * * * * * * * * * * * */
 #pragma once
 #include "../Header Files/stdafx.h"
@@ -14,9 +13,9 @@
 #include "../Header Files/CTimer.h"
 #include "../Header Files/CInput.h"
 
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-Summary: Main framework class
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * *
+* Summary: Main framework class  *
+* * * * * * * * * * * * * * * * */
 class CFramework
 {
 public:
