@@ -1,10 +1,9 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
-*	File Name *	CBaseApp.h		      		   *
-*	   Author *	Basilius Bias Astho Christyono *
-* Website URL * bifeldy.blogspot.com		   *
-*       Email *	bifeldy@gmail.com              *
-* Description *	Application Base Class		   *
-*  Created On *	01/06/2018					   *
+*   File Name *	CBaseApp.h                     *
+*      Author *	Basilius Bias Astho Christyono *
+*       Email *	bias.astho@gmail.com           *
+* Description *	Application Base Class         *
+*  Created On *	01/06/2018                     *
 * * * * * * * * * * * * * * * * * * * * * * * */
 #pragma once
 #include "../Header Files/stdafx.h"
