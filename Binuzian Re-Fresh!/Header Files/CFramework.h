@@ -1,9 +1,9 @@
 /* * * * * * * * * * * * * * * * * * * * * * * *
 *   File Name * CFramework.h                   *
-*      Author *	Basilius Bias Astho Christyono *
-*       Email *	bias.astho@gmail.com           *
-* Description *	Main Controller Point          *
-*  Created On *	01/06/2018                     *
+*      Author * Basilius Bias Astho Christyono *
+*       Email * bias.astho@gmail.com           *
+* Description * Main Controller Point          *
+*  Created On * 01/06/2018                     *
 * * * * * * * * * * * * * * * * * * * * * * * */
 #pragma once
 #include "../Header Files/stdafx.h"
