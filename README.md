@@ -47,4 +47,4 @@ atau download dari https://drive.google.com/drive/u/0/folders/1YW0HTTfcOXgQpteXU
 
 ## Lisensi
 
-Proyek ini berada di bawah Lisensi MIT - Harap melihat [LICENSE.md](LICENSE.md) untuk informasi tingkat lanjut.
+Proyek ini berada di bawah Lisensi MIT - Harap melihat [LICENSE](LICENSE) untuk informasi tingkat lanjut.
